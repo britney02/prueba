@@ -1,0 +1,72 @@
+* {
+    background-color: khaki;
+}
+header {
+        background-color: brown;
+        text-align: center;
+        font-family:'Courier New';
+        color: gold;
+        font-weight: bold;
+        font-size: xx-large;
+}
+#logo {
+        width: 200px;
+        background-color: brown;
+}
+.navbar-brand{
+    background-color: brown;
+}
+nav{
+    border: solid 3px brown;
+    background-color: brown;
+}
+.nav-link {
+    text-align: center;
+    background-color:brown;
+    color: yellow;
+}
+h1 {
+    text-align: center;
+    font-weight: 9000;
+    font-family: Arial;
+    font-size: x-large;
+    color: darkred;
+    border: solid 1px khaki;
+    margin: 50px;
+    padding: 50px;
+}
+
+button{
+    color: yellow;
+    background-color: brown;
+}
+
+h2{
+    color: brown;
+    font-family: Arial;
+}
+ul{
+    color: brown;
+}
+footer{
+    border: solid 100px 0px khaki;
+    background-color:brown;
+    padding: 20px;
+}
+h4{
+    background-color: brown;
+    color: khaki;
+}
+p{
+    background-color: brown;
+    color: khaki;
+}    
+#blank{
+    padding-left: 50px;
+}
+#blank1{
+    padding-left: 50px;
+}
+#blank2{
+    padding-left: 50px;
+}
